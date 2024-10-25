@@ -1,0 +1,15 @@
+section {
+    display: flext;
+  }
+  
+  section .weather {
+    border: 1px solid #db0d0d;
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .weather span {
+    font-weight: bold;
+  }
+  
